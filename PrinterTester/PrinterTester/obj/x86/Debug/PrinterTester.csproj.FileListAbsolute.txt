@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\PrinterService\PrinterTester\PrinterTester\bin\Debug\PrinterTester.exe
+C:\Users\Administrator\Desktop\PrinterService\PrinterTester\PrinterTester\bin\Debug\PrinterTester.pdb
+C:\Users\Administrator\Desktop\PrinterService\PrinterTester\PrinterTester\obj\x86\Debug\PrinterTester.exe
+C:\Users\Administrator\Desktop\PrinterService\PrinterTester\PrinterTester\obj\x86\Debug\PrinterTester.pdb
+C:\Users\Administrator\Desktop\PrinterService\PrinterTester\PrinterTester\bin\Debug\PrinterTester.exe.config

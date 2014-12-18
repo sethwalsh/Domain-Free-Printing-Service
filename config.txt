@@ -1,0 +1,32 @@
+###############################################################
+# PrintingService configuration file containing parameters for
+# the PrintingService Windows Service.
+#
+# Written by Seth Walsh (seth.walsh@utah.edu)
+# 12/14/2014
+###############################################################
+
+# A comma deliminated list of print servers by either IP address or hostname
+[server_list] = 155.97.16.184, 155.97.16.141
+
+# A flag that determines wether or not the Service will run on this machine
+# 1 = Disable the Service
+# 2 = Run the Service
+[disable_service] = 0
+
+# The working local directory.  Where .brm and .md5 and printer list files will be located
+[working_directory] = C:\Tools\Printing\
+
+# The name of the printer list which contains all the printers you want installed on this machine
+[printer_list_filename] = printers.txt
+
+# Keyword that is displayed in the location property of the printer preferences and differentiates printers managed by
+# this service and any other printers that might be installed on this system
+[location_property_name] = ML
+
+# The path to any downloads the Service creates such as the Key => Value file
+[download_path] = C:\Tools\Printing\Download\
+
+# THe name of the Key => Value file on the print servers (should be the same across all servers) and contains the port associated
+# with a given printer name for that particular server
+[key_value_filename] = printers.txt

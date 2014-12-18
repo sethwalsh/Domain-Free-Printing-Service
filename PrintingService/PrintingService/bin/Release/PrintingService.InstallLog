@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.exe
+Installing service PrintingService...
+Service PrintingService has been successfully installed.
+Creating EventLog source PrintingService in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.exe

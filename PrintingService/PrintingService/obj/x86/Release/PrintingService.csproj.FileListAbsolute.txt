@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.exe
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\bin\Release\PrintingService.pdb
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\obj\x86\Release\PrintingService.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\obj\x86\Release\PrintingService.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\obj\x86\Release\PrintingService.exe
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\obj\x86\Release\PrintingService.pdb
+C:\Users\Administrator\Desktop\PrinterService\PrintingService\PrintingService\obj\x86\Release\PrintingService.csprojResolveAssemblyReference.cache
